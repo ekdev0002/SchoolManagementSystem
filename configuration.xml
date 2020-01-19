@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<configuration>
+    <password>Pa$$w0rd</password>
+    <url>jdbc:mysql://localhost/schoolsm?serverTimezone=UTC</url>
+    <user>root</user>
+</configuration>
